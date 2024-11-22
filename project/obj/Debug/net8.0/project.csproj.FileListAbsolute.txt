@@ -1,0 +1,14 @@
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\bin\Debug\net8.0\project.exe
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\bin\Debug\net8.0\project.deps.json
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\bin\Debug\net8.0\project.runtimeconfig.json
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\bin\Debug\net8.0\project.dll
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\bin\Debug\net8.0\project.pdb
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.dll
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\refint\project.dll
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.pdb
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+D:\رواد مصر .net full stack\technical\C#\day01\day01\Fady Emad Kamal Shaker\project\obj\Debug\net8.0\ref\project.dll

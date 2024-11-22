@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net full stack\\technical\\C#\\day01\\day01\\Fady Emad Kamal Shaker\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AAD1CE-1420-4B6E-ABE4-A88C60B5F2E6}|project.csproj|d:\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net full stack\\technical\\c#\\day01\\day01\\fady emad kamal shaker\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AAD1CE-1420-4B6E-ABE4-A88C60B5F2E6}|project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net full stack\\technical\\C#\\day01\\day01\\Fady Emad Kamal Shaker\\project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 .net full stack\\technical\\C#\\day01\\day01\\Fady Emad Kamal Shaker\\project\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:03.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

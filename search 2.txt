@@ -1,0 +1,28 @@
+search 2
+ 
+1. Code Optimization:
+Avoid Unnecessary Computations: Reuse calculated results where possible instead of recalculating them.
+Use Efficient Algorithms and Data Structures: Choose algorithms and data structures that are appropriate for the task at hand. For example, using a hash table for lookups instead of a list.
+Inlining Small Methods: Inlining small methods can reduce function call overhead. However, use this sparingly as it can lead to larger binaries.
+2. Memory Management:
+Use Object Pooling: For frequently created and discarded objects, implement object pooling to avoid unnecessary memory allocations and garbage collection overhead.
+Optimize Memory Allocation: Minimize unnecessary allocations, as excessive memory usage can result in increased garbage collection and runtime overhead.
+Efficient Data Structures: Use value types (structs) when appropriate to reduce heap allocations.
+3. Concurrency and Asynchronous Operations:
+Async/Await: For IO-bound operations, use async and await to avoid blocking threads. This can improve scalability by freeing up threads while waiting for IO operations.
+Parallel Programming: Use parallelism for CPU-bound tasks to take advantage of multi-core processors. Libraries like Task.WhenAll or Parallel.For in .NET can help.
+Avoid Locks When Possible: Use lock-free data structures or other concurrency techniques to avoid bottlenecks due to synchronization.
+4. JIT (Just-In-Time) Compilation Optimizations:
+Profile and Optimize Hot Paths: Use profiling tools (like Visual Studio's Performance Profiler or JetBrains dotTrace) to identify hotspots in your application, and then optimize them.
+Enable Tiered Compilation: .NET's JIT compiler offers tiered compilation, where code is first compiled quickly and then optimized over time as the program runs.
+5. Avoid Reflection:
+Reflection can be slow and resource-intensive, so avoid using it in performance-critical parts of your application. Instead, try to use statically-typed alternatives.
+6. Avoid Boxing:
+Boxing occurs when a value type is converted to a reference type. It introduces overhead due to memory allocation and can impact performance. Be mindful of scenarios where boxing happens, especially in collections like ArrayList.
+7. Use Efficient Libraries and Frameworks:
+Use libraries optimized for performance. For instance, prefer System.Text.Json over Newtonsoft.Json for JSON serialization in .NET, as it's faster and uses less memory.
+8. Compiler and Runtime Settings:
+Enable Optimizations: When building your application, ensure that optimizations are enabled (e.g., using the Release configuration in .NET).
+Profile-Guided Optimizations (PGO): In .NET, you can take advantage of profile-guided optimizations to optimize hot paths based on runtime data.
+9. Minimize Logging and Debugging Overhead:
+Avoid excessive logging in production, as writing logs can introduce IO overhead. Use asynchronous logging or conditional logging to reduce runtime impact.
